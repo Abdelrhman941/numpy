@@ -1,6 +1,12 @@
 # NumPy Learning Repository
 Welcome to the **NumPy Learning Repository**! This repository contains various Jupyter notebooks covering fundamental and advanced NumPy topics.
 
+<div align="center">
+
+> # [User Guide](https://numpy.org/doc/stable/user/absolute_beginners.html)  👀
+
+</div>
+
 ### 📌 NumPy Overview
 
 ✅ **NumPy** is a **third-party Python module** designed to work with **arrays** and **matrices**.  
