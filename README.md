@@ -44,6 +44,3 @@ Welcome to the **NumPy Learning Repository**! This repository contains various J
 ## 📚 Exercises
 - **100 NumPy Questions & Solutions** (From [numpy-100](https://github.com/rougier/numpy-100))
 - Explore the `exercises` folder for practical examples and exercises to enhance your NumPy skills. The `numpy_exercises.ipynb` file contains various problems and solutions to help you practice and master NumPy.
-
----
-✅ **This repository is a work in progress. Stay tuned for updates!** 😊
